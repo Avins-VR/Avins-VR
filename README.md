@@ -1,98 +1,67 @@
-<div align="center">
-    # 👋 Hi there, I'm Avins VR
-    
-    ### Passionate about AI & Data Science, Machine Learning, and Emerging Technologies.
-</div>
+# Hi there, I'm Avins VR 👋  
 
-<br>
-
----
-
-## 💻 Technical Skills
-
-<div align="center">
-    ### Programming & Core Technologies
-    <p>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-    </p>
-
-    ### AI & Data Science
-    <p>
-        <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-    </p>
-
-    ### Web Development & Tools
-    <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
-    </p>
-</div>
-
-<br>
+🎓 **B.Tech Artificial Intelligence & Data Science** student at *St. Joseph’s Institute of Technology* (Expected 2027)  
+💡 Passionate about **AI, Machine Learning, OpenCV, Full Stack Development, and UI/UX Design**  
+🌱 Currently exploring **Computer Vision, Data Science, and Cloud AI solutions**  
+🚀 Always eager to work on impactful projects that solve real-world problems  
 
 ---
 
-## 🛠️ Featured Projects
+## 🧑‍💻 Skills & Technologies  
 
-Highlight your strongest projects with brief descriptions and links.
-
-### 1. SafeGuard App - Full-Stack, Machine Learning
-A cross-platform personal safety app with **SOS alerts, one-tap emergency calling, trusted contact notifications, and real-time location tracking**.
-> [Git Repo](YOUR_SAFEGUARD_APP_GIT_REPO_LINK)
-
-### 2. AI-powered Ambulance Demand Prediction System - Random Forest
-An AI system built using **real-time datasets** to analyze factors like incident type, weekday, and temperature to **classify ambulance demand (high, medium, or low)**, improving emergency response times.
-> [Git Repo](YOUR_AMBULANCE_PREDICTION_GIT_REPO_LINK)
-
-### 3. Car Parking Spot Detection - Open CV
-A smart parking management system using **OpenCV** to assist drivers by **detecting parking occupancy in real-time** and highlighting occupied/empty spots with color boxes.
-> [Git Repo](YOUR_CAR_PARKING_GIT_REPO_LINK)
-
-### 4. Instagram Clone - React
-A fully responsive clone of Instagram featuring profile pages, stories, posts, suggestions, likes, and save functionality, focusing on user-friendliness.
-> [Git Repo](YOUR_INSTAGRAM_CLONE_GIT_REPO_LINK)
-
-<br>
+- **Programming:** Python, SQL  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, MongoDB  
+- **AI/ML:** Machine Learning, OpenCV, Random Forest, FER  
+- **Tools & Libraries:** NumPy, Pandas, Figma  
 
 ---
 
-## 🎓 Education & Certifications
+## 📂 Projects  
 
-* **B.Tech - Artificial Intelligence & Data Science** (Expected 2027) at St.Joseph's Institute of Technology
-* **Certifications:**
-    * Python for Data Science (NPTEL)
-    * OCI AI Foundations (Oracle)
-    * SQL and Relation Database (IBM)
-    * MongoDB Basic for Students (MongoDB)
+🔹 **[SafeGuard App](https://github.com/Avins-VR/Safegaurd)**  
+*A cross-platform safety app with SOS alerts, live tracking, and secure travel routes.*  
 
-<br>
+🔹 **[Instagram Clone](https://github.com/Avins-VR/Insta-Clone)**  
+*A responsive clone with stories, profile pages, likes, saves, and more.*  
 
----
+🔹 **[Car Parking Spot Detection](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
+*Smart parking management using OpenCV to detect available spaces in real-time.*  
 
-## 🌐 Connect with me
+🔹 **[Ambulance Demand Prediction](https://github.com/Avins-VR/Ambulance-Demand-Predection)**  
+*AI-powered system using Random Forest to predict ambulance demand (high/medium/low).*  
 
-<div align="center">
-    <a href="https://linkedin.com/in/avinsvr" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:avins2005@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-</div>
-
-<br>
+🔹 **[Emotion Detection System](https://github.com/Avins-VR/Emotion-Predection-Open-CV)**  
+*Real-time facial emotion recognition using FER and OpenCV.*  
 
 ---
 
-<div align="center">
-    </div>
+## 🎓 Certifications  
+
+- Oracle – **OCI AI Foundations**  
+- NPTEL – **Python for Data Science**  
+- Cisco – **Introduction to Data Science**  
+- IBM – **SQL & Relational Databases**  
+- MongoDB – **MongoDB Basics for Students**  
+- Cambridge – **Linguaskill**  
+
+---
+
+## 💼 Experience  
+
+- **UI/UX Intern @ Srishti Campus** (Dec 2024)  
+  - Worked on designing user interfaces with **Figma**  
+  - Gained experience in **responsive design & usability testing**  
+
+---
+
+## 📫 Connect with Me  
+
+- 📧 Email: [avins2005@gmail.com](mailto:avins2005@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/avinsvr](https://www.linkedin.com/in/avinsvr)  
+- 🌐 Portfolio: [avins-portfolio-4eyf.vercel.app](https://avins-portfolio-4eyf.vercel.app/)  
+- 🐙 GitHub: [github.com/Avins-VR](https://github.com/Avins-VR)  
+
+---
+
+⭐️ *“Passionate about leveraging technology for social impact and innovation.”*  
