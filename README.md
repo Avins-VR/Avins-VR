@@ -2,7 +2,7 @@
 
 🎓 **B.Tech Artificial Intelligence & Data Science** student at *St. Joseph’s Institute of Technology* (Expected 2027)  
 💡 Passionate about **AI, Machine Learning, OpenCV, Full Stack Development, and UI/UX Design**  
-🌱 Currently exploring **Computer Vision, Data Science, and Cloud AI solutions**  
+🌱 Currently exploring **Computer Vision, Data Science, and Machine Learning solutions**  
 🚀 Always eager to work on impactful projects that solve real-world problems  
 
 ---
@@ -10,10 +10,10 @@
 ## 🧑‍💻 Skills & Technologies  
 
 - **Programming:** Python, SQL  
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, MongoDB  
-- **AI/ML:** Machine Learning, OpenCV, Random Forest, FER  
-- **Tools & Libraries:** NumPy, Pandas, Figma  
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **AI/ML:** Machine Learning, OpenCV
+- **Tools & Libraries:** NumPy, Pandas, Figma, Git, Github, VS Code  
 
 ---
 
@@ -59,7 +59,7 @@
 
 - 📧 Email: [avins2005@gmail.com](mailto:avins2005@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/avinsvr](https://www.linkedin.com/in/avinsvr)  
-- 🌐 Portfolio: [avins-portfolio-4eyf.vercel.app](https://avins-portfolio-4eyf.vercel.app/)  
+- 🌐 Portfolio: [avins-portfolio.netlify.app](https://avins-portfolio.netlify.app/)  
 - 🐙 GitHub: [github.com/Avins-VR](https://github.com/Avins-VR)  
 
 ---
