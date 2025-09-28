@@ -64,7 +64,7 @@
         <h3>📌 Want to know more about me?</h3>
         <p>You can view my full resume for details on education, experience, projects, and skills.</p>
         <a href="https://drive.google.com/file/d/1aQUM-E8L9Wu41S0Mfl2jtMIH-DNXT3Qd/view">
-          <b>➡️ View My Resume (PDF)</b>
+          <b>➡️ View My Resume</b>
         </a>
       </td>
     </tr>
