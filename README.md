@@ -13,7 +13,7 @@
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
 - **Backend:** Node.js, Express.js, MongoDB  
 - **AI/ML:** Machine Learning, OpenCV
-- **Tools & Libraries:** NumPy, Pandas, Figma, Git, Github, VS Code  
+- **Tools & Libraries:** NumPy, Pandas, Figma, Git, Github, VS Code, Thunder Client  
 
 ---
 
@@ -53,6 +53,13 @@
   - Worked on designing user interfaces with **Figma**  
   - Gained experience in **responsive design & usability testing**  
 
+
+- **Frontend Developer Intern @ SkyAstrall** (July 2025 - Aug 2025)
+  - Developed responsive web interfaces using **React, Tailwind CSS, and JavaScript**
+  - Contributed to **real-time client projects** and implemented modern frontend features
+  - Gained hands-on experience in **web development, teamwork**
+  - Worked with **Git & GitHub** for version control and project collaboration
+
 ---
 
 ## 📄 Resume  
@@ -63,7 +70,7 @@
       <td align="center">
         <h3>📌 Want to know more about me?</h3>
         <p>You can view my full resume for details on education, experience, projects, and skills.</p>
-        <a href="https://drive.google.com/file/d/1aQUM-E8L9Wu41S0Mfl2jtMIH-DNXT3Qd/view">
+        <a href="https://drive.google.com/file/d/1kRDGjyTLQhxf7ccAPIve0-bfayriRf0Y/view">
           <b>➡️ View My Resume</b>
         </a>
       </td>
