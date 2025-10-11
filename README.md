@@ -40,7 +40,7 @@
 
 - Oracle – **OCI AI Foundations**  
 - NPTEL – **Python for Data Science**  
-- Cisco – **Introduction to Data Science**  
+- NPTEL – **Data Base Management System**  
 - IBM – **SQL & Relational Databases**  
 - MongoDB – **MongoDB Basics for Students**  
 - Cambridge – **Linguaskill**  
