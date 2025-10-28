@@ -19,8 +19,8 @@
 
 ## 📂 Projects  
 
-🔹 **[SafeGuard App](https://github.com/Avins-VR/Safegaurd)**  
-*A cross-platform safety app with SOS alerts, live tracking, and secure travel routes.*  
+🔹 **[SafeRoute App](https://github.com/Avins-VR/SafeRoute)**  
+*A cross-platform safety app featuring real-time location sharing, SOS alerts, and an Area Safety Check for smart and secure travel decisions.*  
 
 🔹 **[Focusflow Tasks](https://github.com/Avins-VR/Todo-List)**  
 *A premium task manager with progress tracking, task categorization, priorities, and reminders.*  
