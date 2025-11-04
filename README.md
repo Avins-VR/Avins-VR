@@ -2,7 +2,7 @@
 
 🎓 **B.Tech Artificial Intelligence & Data Science** student at *St. Joseph’s Institute of Technology* (Expected 2027)  
 💡 Passionate about **AI, Machine Learning, OpenCV, Full Stack Development, and UI/UX Design**  
-🌱 Currently exploring **Computer Vision, Data Science, and Machine Learning solutions**  
+🌱 Currently exploring **Computer Vision, Artificial Intelligence, and Machine Learning solutions**  
 🚀 Always eager to work on impactful projects that solve real-world problems  
 
 ---
