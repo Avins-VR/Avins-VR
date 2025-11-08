@@ -11,7 +11,7 @@
 
 - **Programming:** Python, SQL  
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB  
+- **Backend:** Node.js, Express.js, MongoDB, FastAPI  
 - **AI/ML:** Machine Learning, OpenCV
 - **Tools & Libraries:** NumPy, Pandas, Figma, Git, Github, VS Code, Thunder Client  
 
