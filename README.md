@@ -1,9 +1,9 @@
 # Hi there, I'm Avins VR 👋  
 
 🎓 **B.Tech Artificial Intelligence & Data Science** student at *St. Joseph’s Institute of Technology* (Expected 2027)  
-💡 Passionate about **AI, Machine Learning, OpenCV, Full Stack Development, and UI/UX Design**  
-🌱 Currently exploring **Computer Vision, Artificial Intelligence, and Machine Learning solutions**  
-🚀 Always eager to work on impactful projects that solve real-world problems  
+💡 Passionate about **Deep Learning, Machine Learning, and Computer Vision**, along with **Full Stack Development**  
+🌱 Currently exploring **Neural Networks, CNNs, and AI-based real-world solutions**  
+🚀 Always eager to build impactful projects that solve real-world problems  
 
 ---
 
@@ -12,7 +12,7 @@
 - **Programming:** Python, SQL  
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
 - **Backend:** Node.js, Express.js, MongoDB, FastAPI  
-- **AI/ML:** Machine Learning, Deep Learning (Neural Networks, CNNs), OpenCV
+- **Artificial Intelligence:** Machine Learning, Deep Learning (Neural Networks, CNNs), OpenCV
 - **Tools & Libraries:** NumPy, Pandas, Figma, Git, Github, VS Code, Thunder Client  
 
 ---
