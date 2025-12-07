@@ -19,7 +19,7 @@
 
 ## 📂 Projects  
 
-🔹 **[SafeRoute App](https://github.com/Avins-VR/SafeRoute)**  
+🔹 **[SafeRoute](https://github.com/Avins-VR/SafeRoute)**  
 *A cross-platform safety app featuring real-time location sharing, SOS alerts, and an Area Safety Check for smart and secure travel decisions.*  
 
 🔹 **[Medi Connect](https://github.com/Avins-VR/Medi-Connect)**  
