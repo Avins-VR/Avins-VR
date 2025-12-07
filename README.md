@@ -23,7 +23,7 @@
 *A cross-platform safety app featuring real-time location sharing, SOS alerts, and an Area Safety Check for smart and secure travel decisions.*  
 
 🔹 **[Medi Connect](https://github.com/Avins-VR/Medi-Connect)**  
-*MediConnect is a smart healthcare platform offering seamless appointments, medication tracking, and health record management for efficient patient–doctor interaction.*  
+*MediConnect is a healthcare platform for easy appointments, medication tracking, and health records for smoother patient–doctor interaction.*  
 
 🔹 **[Car Parking Spot Detection](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
 *Smart parking management using OpenCV to detect available spaces in real-time.*  
