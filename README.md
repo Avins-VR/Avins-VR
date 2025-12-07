@@ -22,8 +22,8 @@
 🔹 **[SafeRoute App](https://github.com/Avins-VR/SafeRoute)**  
 *A cross-platform safety app featuring real-time location sharing, SOS alerts, and an Area Safety Check for smart and secure travel decisions.*  
 
-🔹 **[Focusflow Tasks](https://github.com/Avins-VR/Todo-List)**  
-*A premium task manager with progress tracking, task categorization, priorities, and reminders.*  
+🔹 **[Medi Connect](https://github.com/Avins-VR/Medi-Connect)**  
+*MediConnect is a smart healthcare platform offering seamless appointments, medication tracking, and health record management for efficient patient–doctor interaction.*  
 
 🔹 **[Car Parking Spot Detection](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
 *Smart parking management using OpenCV to detect available spaces in real-time.*  
@@ -70,7 +70,7 @@
       <td align="center">
         <h3>📌 Want to know more about me?</h3>
         <p>You can view my full resume for details on education, experience, projects, and skills.</p>
-        <a href="https://drive.google.com/file/d/17zx7kGU0j4eiJVMbpcr9PSbzgFLniG2p/view?usp=drive_link">
+        <a href="https://drive.google.com/file/d/1KsfkElRDpkSgQxstYy5JSZxBjIQ2VFXP/view?usp=drive_link">
           <b>➡️ View My Resume</b>
         </a>
       </td>
