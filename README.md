@@ -31,8 +31,8 @@
 🔹 **[Ambulance Demand Prediction](https://github.com/Avins-VR/Ambulance-Demand-Predection)**  
 *AI-powered system using Random Forest to predict ambulance demand (high/medium/low).*  
 
-🔹 **[Emotion Detection System](https://github.com/Avins-VR/Emotion-Predection-Open-CV)**  
-*Real-time facial emotion recognition using FER and OpenCV.*  
+🔹 **[Potato Leaf Disease Classification](https://github.com/Avins-VR/Potato-Disease-Classification)**  
+*AI-based system to classify potato leaf diseases as Early Blight, Late Blight, or Healthy using a CNN model.*  
 
 ---
 
@@ -70,7 +70,7 @@
       <td align="center">
         <h3>📌 Want to know more about me?</h3>
         <p>You can view my full resume for details on education, experience, projects, and skills.</p>
-        <a href="https://drive.google.com/file/d/1U29T05e0JtSEkovaAF2yrGEg0qAkOohe/view?usp=drive_link">
+        <a href="https://drive.google.com/file/d/1K-prQtJQ-YfKN7N0qem_7T0MJLaXiYcl/view">
           <b>➡️ View My Resume</b>
         </a>
       </td>
