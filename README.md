@@ -38,7 +38,7 @@
 
 ## 🎓 Certifications  
 
-- Oracle – **OCI AI Foundations**  
+- Oracle (International)– **OCI AI Foundations**  
 - NPTEL – **Python for Data Science**  
 - NPTEL – **Data Base Management System**  
 - IBM – **SQL & Relational Databases**  
@@ -70,7 +70,7 @@
       <td align="center">
         <h3>📌 Want to know more about me?</h3>
         <p>You can view my full resume for details on education, experience, projects, and skills.</p>
-        <a href="https://drive.google.com/file/d/1K-prQtJQ-YfKN7N0qem_7T0MJLaXiYcl/view">
+        <a href="https://drive.google.com/file/d/11AmfEnGhomK9hPHeDlgbM52mOeOnw4QW/view?usp=drive_link">
           <b>➡️ View My Resume</b>
         </a>
       </td>
