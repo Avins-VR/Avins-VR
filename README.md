@@ -17,13 +17,7 @@
 
 ---
 
-## 📂 Projects  
-
-🔹 **[SafeRoute](https://github.com/Avins-VR/SafeRoute)**  
-*A cross-platform safety app featuring real-time location sharing, SOS alerts, and an Area Safety Check for smart and secure travel decisions.*  
-
-🔹 **[Medi Connect](https://github.com/Avins-VR/Medi-Connect)**  
-*MediConnect is a healthcare platform for easy appointments, medication tracking, and health records for smoother patient–doctor interaction.*  
+## 📂 Projects
 
 🔹 **[Car Parking Spot Detection](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
 *Smart parking management using OpenCV to detect available spaces in real-time.*  
@@ -33,6 +27,12 @@
 
 🔹 **[Potato Leaf Disease Classification](https://github.com/Avins-VR/Potato-Disease-Classification)**  
 *AI-based system to classify potato leaf diseases as Early Blight, Late Blight, or Healthy using a CNN model.*  
+
+🔹 **[SafeRoute](https://github.com/Avins-VR/SafeRoute)**  
+*A cross-platform safety app featuring real-time location sharing, SOS alerts, and an Area Safety Check for smart and secure travel decisions.*  
+
+🔹 **[Medi Connect](https://github.com/Avins-VR/Medi-Connect)**  
+*MediConnect is a healthcare platform for easy appointments, medication tracking, and health records for smoother patient–doctor interaction.*  
 
 ---
 
