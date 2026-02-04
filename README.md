@@ -12,7 +12,7 @@
 - **Programming:** Python, SQL  
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
 - **Backend:** Node.js, Express.js, MongoDB, FastAPI  
-- **Artificial Intelligence:** Machine Learning, Deep Learning, OpenCV
+- **Artificial Intelligence:** Machine Learning, Deep Learning(CNN,ANN,RNN) , OpenCV
 - **Tools & Libraries:** NumPy, Pandas, Figma, Git, Github, VS Code, Thunder Client  
 
 ---
