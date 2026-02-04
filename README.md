@@ -2,7 +2,7 @@
 
 🎓 **B.Tech Artificial Intelligence & Data Science** student at *St. Joseph’s Institute of Technology* (Expected 2027)  
 💡 Passionate about **Deep Learning, Machine Learning, and Computer Vision**, along with **Full Stack Development**  
-🌱 Currently exploring **Neural Networks, CNNs, and AI-based real-world solutions**  
+🌱 Currently exploring **Neural Networks, CNNs, ANN, RNN and AI-based real-world solutions**  
 🚀 Always eager to build impactful projects that solve real-world problems  
 
 ---
