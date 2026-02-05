@@ -19,20 +19,23 @@
 
 ## 📂 Projects
 
+🔹 **[Smart Agri-AI](https://github.com/Avins-VR/Smart-Agri-AI)**  
+*Multi-modal deep learning system for crop nutrient deficiency diagnosis using leaf images, soil parameters, weather data, and growth-stage awareness. Uses CNN-based vision and fusion learning to predict deficient nutrients, severity, and environmental causes with explainable and adaptive AI.*
+
 🔹 **[Car Parking Spot Detection](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
-*Smart parking management using OpenCV to detect available spaces in real-time.*  
+*Smart parking management system built with OpenCV to detect available parking spaces in real-time using image processing and mask-based detection.*
 
 🔹 **[Ambulance Demand Prediction](https://github.com/Avins-VR/Ambulance-Demand-Predection)**  
-*AI-powered system using Random Forest to predict ambulance demand (high/medium/low).*  
+*AI-powered prediction system using Random Forest to forecast ambulance demand (high/medium/low) based on factors such as weather, events, and call patterns.*
 
 🔹 **[Potato Leaf Disease Classification](https://github.com/Avins-VR/Potato-Disease-Classification)**  
-*AI-based system to classify potato leaf diseases as Early Blight, Late Blight, or Healthy using a CNN model.*  
+*CNN-based deep learning model to classify potato leaf diseases into Early Blight, Late Blight, and Healthy categories for early and accurate crop disease detection.*
 
 🔹 **[SafeRoute](https://github.com/Avins-VR/SafeRoute)**  
-*A cross-platform safety app featuring real-time location sharing, SOS alerts, and an Area Safety Check for smart and secure travel decisions.*  
+*A cross-platform personal safety app with real-time location sharing, SOS alerts, emergency calling, and an Area Safety Check for secure and informed travel decisions.*
 
 🔹 **[Medi Connect](https://github.com/Avins-VR/Medi-Connect)**  
-*MediConnect is a healthcare platform for easy appointments, medication tracking, and health records for smoother patient–doctor interaction.*  
+*A smart healthcare platform enabling appointment booking, medication tracking, and digital health records for seamless patient–doctor interaction.*
 
 ---
 
