@@ -34,8 +34,6 @@
 🔹 **[SafeRoute](https://github.com/Avins-VR/SafeRoute)**  
 *A cross-platform personal safety app with real-time location sharing, SOS alerts, emergency calling, and an Area Safety Check for secure and informed travel decisions.*
 
-🔹 **[Medi Connect](https://github.com/Avins-VR/Medi-Connect)**  
-*A smart healthcare platform enabling appointment booking, medication tracking, and digital health records for seamless patient–doctor interaction.*
 
 ---
 
