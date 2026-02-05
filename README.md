@@ -19,19 +19,19 @@
 
 ## 📂 Projects
 
-🔹 **[Smart Agri-AI](https://github.com/Avins-VR/Smart-Agri-AI)**  
+🔹 **[Smart Agri AI - (CNN) ](https://github.com/Avins-VR/Smart-Agri-AI)**  
 *Multi-modal deep learning system for crop nutrient deficiency diagnosis using leaf images, soil parameters, weather data, and growth-stage awareness. Uses CNN-based vision and fusion learning to predict deficient nutrients, severity, and environmental causes with explainable and adaptive AI.*
 
-🔹 **[Car Parking Spot Detection](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
+🔹 **[AI-powered Car Parking Spot Dedection - (Open CV)](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
 *Smart parking management system built with OpenCV to detect available parking spaces in real-time using image processing and mask-based detection.*
 
-🔹 **[Ambulance Demand Prediction](https://github.com/Avins-VR/Ambulance-Demand-Predection)**  
+🔹 **[AI-powered ambulance demand prediction system - (Random Forest)](https://github.com/Avins-VR/Ambulance-Demand-Predection)**  
 *AI-powered prediction system using Random Forest to forecast ambulance demand (high/medium/low) based on factors such as weather, events, and call patterns.*
 
-🔹 **[Potato Leaf Disease Classification](https://github.com/Avins-VR/Potato-Disease-Classification)**  
+🔹 **[AI-Based Potato Leaf Disease Classification - (CNN)](https://github.com/Avins-VR/Potato-Disease-Classification)**  
 *CNN-based deep learning model to classify potato leaf diseases into Early Blight, Late Blight, and Healthy categories for early and accurate crop disease detection.*
 
-🔹 **[SafeRoute](https://github.com/Avins-VR/SafeRoute)**  
+🔹 **[SafeRoute - (MERN Stack)](https://github.com/Avins-VR/SafeRoute)**  
 *A cross-platform personal safety app with real-time location sharing, SOS alerts, emergency calling, and an Area Safety Check for secure and informed travel decisions.*
 
 
