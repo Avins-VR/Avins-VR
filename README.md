@@ -70,7 +70,7 @@
       <td align="center">
         <h3>📌 Want to know more about me?</h3>
         <p>You can view my full resume for details on education, experience, projects, and skills.</p>
-        <a href="https://drive.google.com/file/d/1xxQ5DbRQ2Qlm4sXX8cSNEZl57W4DZ_oo/view?usp=drive_link">
+        <a href="https://drive.google.com/file/d/1Wi-1Ez67GzWaoWdBGkIBITy19fwSSI_H/view?usp=drive_link">
           <b>➡️ View My Resume</b>
         </a>
       </td>
