@@ -2,8 +2,8 @@
 # Hi there, I'm Avins VR 👋  
 
 🎓 **B.Tech Artificial Intelligence & Data Science** student at *St. Joseph’s Institute of Technology* (Expected 2027)  
-💡 Passionate about **Deep Learning, Machine Learning, and Computer Vision**, along with **Full Stack Development**  
-🌱 Currently exploring **Neural Networks, CNNs, ANN, RNN and AI-based real-world solutions**  
+💡 Passionate about **Deep Learning, Machine Learning**, along with **Computer Vision**  
+🌱 Currently exploring **Neural Networks, CNNs, ANN, RNN, NLP and AI-based real-world solutions**  
 🚀 Always eager to build impactful projects that solve real-world problems  
 
 ---
