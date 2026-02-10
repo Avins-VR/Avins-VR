@@ -11,8 +11,9 @@
 ## 🧑‍💻 Skills & Technologies  
 
 - **Programming:** Python, SQL
-- **Artificial Intelligence:** Machine Learning, Deep Learning(CNN,ANN,RNN) , Computer Vision
-- **Full-stack:** HTML, CSS, JavaScript, React, Tailwind CSS, MERN Stack  
+- **Artificial Intelligence:** Machine Learning, Deep Learning
+- **Full-stack:** HTML, CSS, JavaScript, React, Tailwind CSS, MERN Stack
+- **Technologies:** ANN, CNN, NLP, Computer Vision
 - **Tools & Libraries:** NumPy, Pandas, Figma, Git, Github, VS Code, Thunder Client  
 
 ---
@@ -66,7 +67,7 @@
       <td align="center">
         <h3>📌 Want to know more about me?</h3>
         <p>You can view my full resume for details on education, experience, projects, and skills.</p>
-        <a href="https://drive.google.com/file/d/1EqrkrIhPuGR0lRzRAwkLCQoANjTjZctr/view?usp=drive_link">
+        <a href="https://drive.google.com/file/d/1PUb1ERlZYFhGjo-ovhHdDGob4mOWshkD/view?usp=drive_link">
           <b>➡️ View My Resume</b>
         </a>
       </td>
