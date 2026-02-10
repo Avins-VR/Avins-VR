@@ -29,7 +29,7 @@
 🔹 **[AI-powered ambulance demand prediction system - (Random Forest)](https://github.com/Avins-VR/Ambulance-Demand-Predection)**  
 *AI-powered prediction system using Random Forest to forecast ambulance demand (high/medium/low) based on factors such as weather, events, and call patterns.*
 
-🔹 **[AI-Based Potato Leaf Disease Classification - (CNN)](https://github.com/Avins-VR/Potato-Disease-Classification)**  
+🔹 **[AI-Based Potato Leaf Disease Classification - (Multimodal AI)](https://github.com/Avins-VR/Potato-Disease-Classification) → Working On**  
 *CNN-based deep learning model to classify potato leaf diseases into Early Blight, Late Blight, and Healthy categories for early and accurate crop disease detection.*
 
 🔹 **[SafeRoute - (MERN Stack)](https://github.com/Avins-VR/SafeRoute)**  
