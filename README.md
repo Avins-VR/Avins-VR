@@ -12,9 +12,9 @@
 
 - **Programming:** Python, SQL
 - **Artificial Intelligence:** Machine Learning, Deep Learning
-- **Full-stack:** HTML, CSS, JavaScript, React, Tailwind CSS, MERN Stack
+- **Full-Stack:** HTML, CSS, JavaScript, React, Tailwind CSS, MERN Stack
 - **Technologies:** ANN, CNN, NLP, Computer Vision
-- **Tools & Libraries:** NumPy, Pandas, Figma, Git, Github, VS Code, Thunder Client  
+- **Tools & Libraries:** NumPy, Pandas, Matplotlib, TensorFlow, Scikit-Learn, Git, Github, VS Code
 
 ---
 
