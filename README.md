@@ -21,7 +21,7 @@
 ## 📂 Projects
 
 🔹 **[Smart Agri AI - (Multimodal AI) ](https://github.com/Avins-VR/Smart-Agri-AI)  → Working On**  
-*Multi-modal deep learning system for crop nutrient deficiency diagnosis using leaf images, soil parameters, weather data, and growth-stage awareness. Uses CNN-based vision and fusion learning to predict deficient nutrients, severity, and environmental causes with explainable and adaptive AI.*
+*Developed Smart Agri AI, an AI-powered smart agriculture system for remote farm monitoring using drone imagery and virtual sensor data. Built multimodal deep learning models to analyze crop health, detect nutrient deficiencies, track growth stages, and predict irrigation and weather impact, delivering intelligent advisory and crop health insights for data-driven precision farming.*
 
 🔹 **[AI-powered Car Parking Spot Dedection - (Open CV)](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
 *Smart parking management system built with OpenCV to detect available parking spaces in real-time using image processing and mask-based detection.*
@@ -67,7 +67,7 @@
       <td align="center">
         <h3>📌 Want to know more about me?</h3>
         <p>You can view my full resume for details on education, experience, projects, and skills.</p>
-        <a href="https://drive.google.com/file/d/1PUb1ERlZYFhGjo-ovhHdDGob4mOWshkD/view?usp=drive_link">
+        <a href="https://drive.google.com/file/d/1nGoS1OXgowh-CvivEhb0GIxubSXrlDUI/view?usp=drive_link">
           <b>➡️ View My Resume</b>
         </a>
       </td>
