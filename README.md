@@ -25,7 +25,7 @@
 
 ---
 
-🔹 **[Multimodal Crop Diagnosis with NLP Chatbot](https://github.com/Avins-VR/Smart-Agri-AI)**  
+🔹 **[Multimodal Crop Diagnosis with NLP Chatbot](https://github.com/Avins-VR/Multimodal-Crop-Diagnosis-with-NLP-Chatbot)**  
 *Built a multimodal AI system for crop nutrient diagnosis by integrating leaf imagery with soil (pH, moisture, NPK) and weather data. Detects deficiency stages, provides confidence-based recommendations, and includes an NLP chatbot with self-learning feedback to improve prediction accuracy and support precision agriculture.*
 
 ---
@@ -40,13 +40,8 @@
 
 ---
 
-🔹 **[AI-Based Potato Leaf Disease Classification – CNN](https://github.com/Avins-VR/Potato-Disease-Classification)**  
-*Built a CNN-based deep learning model to classify potato leaf diseases into Early Blight, Late Blight, and Healthy categories, enabling early disease detection and improving crop management decisions.*
-
----
-
 🔹 **[SafeRoute – MERN Stack](https://github.com/Avins-VR/SafeRoute)**  
-*Developed a cross-platform personal safety application with real-time location sharing, SOS alerts, emergency calling, and area safety analysis to enhance user security and enable safer travel decisions.*
+*A cross-platform personal safety app designed for all users. It features real-time location sharing, SOS alerts, and one-tap emergency calling (100, 108, etc.). The app’s key highlight is the Area Safety Check, which displays safety ratings, lighting scores, police presence, emergency services, and crowd density to help users make informed and secure travel decisions*
 
 
 ---
