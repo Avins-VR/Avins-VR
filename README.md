@@ -20,27 +20,27 @@
 
 ## 📂 Projects  
 
-🔹 **[Smart Agri AI – Multimodal AI](https://github.com/Avins-VR/Smart-Agri-AI) → Working On**  
+🔹 **[Smart Agri AI – (Multimodal AI + NLP)](https://github.com/Avins-VR/Smart-Agri-AI) → Working On**  
 *Developing an AI-powered smart agriculture monitoring system for remote farm management using drone imagery and virtual sensor data. Built multimodal deep learning and data-fusion models to analyze crop health, detect nutrient deficiencies, identify growth stages, and predict irrigation and weather impact, delivering intelligent advisory and crop health insights for data-driven precision farming.*
 
 ---
 
-🔹 **[Multimodal Crop Diagnosis with NLP Chatbot](https://github.com/Avins-VR/Multimodal-Crop-Diagnosis-with-NLP-Chatbot)**  
+🔹 **[Multimodal Crop Diagnosis with NLP Chatbot - (Multimodal AI)](https://github.com/Avins-VR/Multimodal-Crop-Diagnosis-with-NLP-Chatbot)**  
 *Built a multimodal AI system for crop nutrient diagnosis by integrating leaf imagery with soil (pH, moisture, NPK) and weather data. Detects deficiency stages, provides confidence-based recommendations, and includes an NLP chatbot with self-learning feedback to improve prediction accuracy and support precision agriculture.*
 
 ---
 
-🔹 **[AI-powered Car Parking Spot Detection – OpenCV](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
+🔹 **[AI-powered Car Parking Spot Detection – (OpenCV)](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
 *Developed a computer vision-based smart parking system using OpenCV to detect parking occupancy in real time. Utilizes mask and image processing techniques to identify available and occupied slots, improving parking efficiency, reducing search time, and minimizing urban congestion.*
 
 ---
 
-🔹 **[AI-powered Ambulance Demand Prediction – Random Forest](https://github.com/Avins-VR/Ambulance-Demand-Predection)**  
+🔹 **[AI-powered Ambulance Demand Prediction – (Random Forest)](https://github.com/Avins-VR/Ambulance-Demand-Predection)**  
 *Designed a machine learning-based demand prediction system using Random Forest to classify ambulance demand (high/medium/low) based on weather, events, call patterns, and location data, enabling better emergency resource allocation and faster response times.*
 
 ---
 
-🔹 **[SafeRoute – MERN Stack](https://github.com/Avins-VR/SafeRoute)**  
+🔹 **[SafeRoute – (MERN Stack)](https://github.com/Avins-VR/SafeRoute)**  
 *A cross-platform personal safety app designed for all users. It features real-time location sharing, SOS alerts, and one-tap emergency calling (100, 108, etc.). The app’s key highlight is the Area Safety Check, which displays safety ratings, lighting scores, police presence, emergency services, and crowd density to help users make informed and secure travel decisions*
 
 
