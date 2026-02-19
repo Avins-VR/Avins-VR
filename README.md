@@ -25,7 +25,7 @@
 
 ---
 
-🔹 **[Multimodal Crop Diagnosis with NLP Chatbot - (Multimodal AI)](https://github.com/Avins-VR/Multimodal-Crop-Diagnosis-with-NLP-Chatbot)**  
+🔹 **[Multimodal Crop Diagnosis with NLP Chatbot - (Multimodal AI)](https://github.com/Avins-VR/Multimodal-Crop-Diagnosis-with-NLP-Chatbot) → Working On**  
 *Built a multimodal AI system for crop nutrient diagnosis by integrating leaf imagery with soil (pH, moisture, NPK) and weather data. Detects deficiency stages, provides confidence-based recommendations, and includes an NLP chatbot with self-learning feedback to improve prediction accuracy and support precision agriculture.*
 
 ---
