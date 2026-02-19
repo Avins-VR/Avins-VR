@@ -18,22 +18,35 @@
 
 ---
 
-## 📂 Projects
+## 📂 Projects  
 
-🔹 **[Smart Agri AI - (Multimodal AI) ](https://github.com/Avins-VR/Smart-Agri-AI)  → Working On**  
-*Developed Smart Agri AI, an AI-powered agriculture system for remote farm monitoring using drone imagery and virtual sensor data. Built multimodal deep learning models to analyze crop health, detect nutrient deficiencies, identify growth stages, and predict irrigation and weather impact, delivering intelligent advisory and crop health insights for data-driven precision farming.*
+🔹 **[Smart Agri AI – Multimodal AI](https://github.com/Avins-VR/Smart-Agri-AI) → Working On**  
+*Developing an AI-powered smart agriculture monitoring system for remote farm management using drone imagery and virtual sensor data. Built multimodal deep learning and data-fusion models to analyze crop health, detect nutrient deficiencies, identify growth stages, and predict irrigation and weather impact, delivering intelligent advisory and crop health insights for data-driven precision farming.*
 
-🔹 **[AI-powered Car Parking Spot Dedection - (Open CV)](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
-*Smart parking management system built with OpenCV to detect available parking spaces in real-time using image processing and mask-based detection.*
+---
 
-🔹 **[AI-powered ambulance demand prediction system - (Random Forest)](https://github.com/Avins-VR/Ambulance-Demand-Predection)**  
-*AI-powered prediction system using Random Forest to forecast ambulance demand (high/medium/low) based on factors such as weather, events, and call patterns.*
+🔹 **[Multimodal Crop Diagnosis with NLP Chatbot](https://github.com/Avins-VR/Smart-Agri-AI)**  
+*Built a multimodal AI system for crop nutrient diagnosis by integrating leaf imagery with soil (pH, moisture, NPK) and weather data. Detects deficiency stages, provides confidence-based recommendations, and includes an NLP chatbot with self-learning feedback to improve prediction accuracy and support precision agriculture.*
 
-🔹 **[AI-Based Potato Leaf Disease Classification - (CNN)](https://github.com/Avins-VR/Potato-Disease-Classification)**  
-*CNN-based deep learning model to classify potato leaf diseases into Early Blight, Late Blight, and Healthy categories for early and accurate crop disease detection.*
+---
 
-🔹 **[SafeRoute - (MERN Stack)](https://github.com/Avins-VR/SafeRoute)**  
-*A cross-platform personal safety app with real-time location sharing, SOS alerts, emergency calling, and an Area Safety Check for secure and informed travel decisions.*
+🔹 **[AI-powered Car Parking Spot Detection – OpenCV](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
+*Developed a computer vision-based smart parking system using OpenCV to detect parking occupancy in real time. Utilizes mask and image processing techniques to identify available and occupied slots, improving parking efficiency, reducing search time, and minimizing urban congestion.*
+
+---
+
+🔹 **[AI-powered Ambulance Demand Prediction – Random Forest](https://github.com/Avins-VR/Ambulance-Demand-Predection)**  
+*Designed a machine learning-based demand prediction system using Random Forest to classify ambulance demand (high/medium/low) based on weather, events, call patterns, and location data, enabling better emergency resource allocation and faster response times.*
+
+---
+
+🔹 **[AI-Based Potato Leaf Disease Classification – CNN](https://github.com/Avins-VR/Potato-Disease-Classification)**  
+*Built a CNN-based deep learning model to classify potato leaf diseases into Early Blight, Late Blight, and Healthy categories, enabling early disease detection and improving crop management decisions.*
+
+---
+
+🔹 **[SafeRoute – MERN Stack](https://github.com/Avins-VR/SafeRoute)**  
+*Developed a cross-platform personal safety application with real-time location sharing, SOS alerts, emergency calling, and area safety analysis to enhance user security and enable safer travel decisions.*
 
 
 ---
