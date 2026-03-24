@@ -1,97 +1,209 @@
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Avins </h1>
 
-# Hi there, I'm Avins VR 👋  
+<h3 align="center">
+🤖 Aspiring AI & Machine Learning Engineer | 💡 Building Intelligent Systems
+</h3>
 
-🎓 **B.Tech Artificial Intelligence & Data Science** student at *St. Joseph’s Institute of Technology* (Expected 2027)  
-💡 Passionate about **Deep Learning, Machine Learning**, along with **Computer Vision**  
-🌱 Currently exploring **Neural Networks, CNNs, ANN, RNN, NLP and AI-based real-world solutions**  
-🚀 Always eager to build impactful projects that solve real-world problems  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Deep+Learning+Explorer;Multimodal+AI+Builder;Turning+Data+into+Impactful+Solutions" />
+</p>
+
+---
+
+## 🧠 About Me  
+
+🎓 B.Tech Artificial Intelligence & Data Science @ *St. Joseph’s Institute of Technology* (2027)  
+💡 Passionate about building **AI-driven real-world solutions**  
+🌱 Currently exploring **Deep Learning, Computer Vision, NLP & Multimodal AI**  
+🚀 Focused on becoming a **skilled AI/ML Engineer**  
 
 ---
 
 ## 🧑‍💻 Skills & Technologies  
 
-- **Programming:** Python, SQL
-- **Artificial Intelligence:** Machine Learning, Deep Learning
-- **Full-Stack:** HTML, CSS, JavaScript, React, Tailwind CSS, MERN Stack
-- **Technologies:** ANN, CNN, NLP, Computer Vision
-- **Tools & Libraries:** NumPy, Pandas, Matplotlib, TensorFlow, Scikit-Learn, Git, Github, VS Code
+### 🔹 Programming  
+- Python  
+- SQL  
+
+### 🔹 Artificial Intelligence  
+- Machine Learning  
+- Deep Learning  
+- Neural Networks (ANN, CNN, RNN)  
+- Natural Language Processing (NLP)  
+- Computer Vision  
+
+### 🔹 Development  
+- HTML, CSS, JavaScript  
+- React.js  
+- MERN Stack  
+
+### 🔹 Tools & Libraries  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-Learn  
+- TensorFlow  
+- Git & GitHub  
+- VS Code  
 
 ---
 
-## 📂 Projects  
+## 🚀 Featured Projects  
 
-🔹 **[Smart Agri AI – (Multimodal AI + NLP)](https://github.com/Avins-VR/Smart-Agri-AI) → Working On**  
-*Developing an AI-powered smart agriculture monitoring system for remote farm management using drone imagery and virtual sensor data. Built multimodal deep learning and data-fusion models to analyze crop health, detect nutrient deficiencies, identify growth stages, and predict irrigation and weather impact, delivering intelligent advisory and crop health insights for data-driven precision farming.*
+### 🌱 Smart Agri AI – Multimodal AI + NLP *(Ongoing)*  
+🔗 https://github.com/Avins-VR/Smart-Agri-AI  
 
----
+An advanced **AI-powered smart agriculture system** designed for remote farm monitoring and decision-making.
 
-🔹 **[Multimodal Crop Diagnosis with NLP Chatbot - (Multimodal AI)](https://github.com/Avins-VR/Multimodal-Crop-Diagnosis-with-NLP-Chatbot) → Working On**  
-*Built a multimodal AI system for crop nutrient diagnosis by integrating leaf imagery with soil (pH, moisture, NPK) and weather data. Detects deficiency stages, provides confidence-based recommendations, and includes an NLP chatbot with self-learning feedback to improve prediction accuracy and support precision agriculture.*
+- 🌾 Uses **drone imagery + virtual sensor data**  
+- 🤖 Implements **multimodal deep learning models** for data fusion  
+- 📊 Detects **crop health, nutrient deficiencies & growth stages**  
+- 🌦️ Predicts **irrigation needs & weather impact**  
+- 💡 Provides **intelligent advisory for precision farming**  
 
----
-
-🔹 **[AI-powered Car Parking Spot Detection – (OpenCV)](https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-)**  
-*Developed a computer vision-based smart parking system using OpenCV to detect parking occupancy in real time. Utilizes mask and image processing techniques to identify available and occupied slots, improving parking efficiency, reducing search time, and minimizing urban congestion.*
-
----
-
-🔹 **[AI-powered Ambulance Demand Prediction – (Random Forest)](https://github.com/Avins-VR/Ambulance-Demand-Predection)**  
-*Designed a machine learning-based demand prediction system using Random Forest to classify ambulance demand (high/medium/low) based on weather, events, call patterns, and location data, enabling better emergency resource allocation and faster response times.*
+👉 *Impact:* Helps farmers take **data-driven decisions** and improve crop yield  
 
 ---
 
-🔹 **[SafeRoute – (MERN Stack)](https://github.com/Avins-VR/SafeRoute)**  
-*A cross-platform personal safety app designed for all users. It features real-time location sharing, SOS alerts, and one-tap emergency calling (100, 108, etc.). The app’s key highlight is the Area Safety Check, which displays safety ratings, lighting scores, police presence, emergency services, and crowd density to help users make informed and secure travel decisions*
+### 🌿 Multimodal Crop Diagnosis with NLP Chatbot *(Ongoing)*  
+🔗 https://github.com/Avins-VR/Multimodal-Crop-Diagnosis-with-NLP-Chatbot  
 
+A **hybrid AI system** combining vision + tabular data + NLP for crop diagnosis.
+
+- 📷 Image-based leaf analysis using **Computer Vision**  
+- 🌱 Integrates **soil data (NPK, pH, moisture)**  
+- ☁️ Includes **weather-based context awareness**  
+- 🤖 Built an **NLP chatbot** for farmer interaction  
+- 🔁 Uses **feedback loop for continuous learning**  
+- 📈 Generates **confidence-based recommendations**  
+
+👉 *Impact:* Improves **accuracy of crop disease detection** and farmer accessibility  
+
+---
+
+### 🚗 AI-powered Car Parking Spot Detection  
+🔗 https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-  
+
+A **computer vision-based smart parking system** that detects slot occupancy in real time.
+
+- 📸 Uses **OpenCV & image processing techniques**  
+- 🧠 Identifies **occupied vs available parking slots**  
+- ⚡ Improves **parking efficiency & reduces congestion**  
+
+👉 *Impact:* Saves time and reduces urban traffic issues  
+
+---
+
+### 🚑 AI-powered Ambulance Demand Prediction  
+🔗 https://github.com/Avins-VR/Ambulance-Demand-Predection  
+
+A **machine learning-based prediction system** for emergency resource planning.
+
+- 🌲 Built using **Random Forest algorithm**  
+- 📊 Uses **weather, events, and call patterns data**  
+- 🔮 Predicts **demand levels (High / Medium / Low)**  
+
+👉 *Impact:* Enables **better emergency response planning**  
+
+---
+
+### 🛡️ SafeRoute – Smart Safety Application (MERN)  
+🔗 https://github.com/Avins-VR/SafeRoute  
+
+A **real-time personal safety platform** focused on safer navigation.
+
+- 📍 Live **location tracking & sharing**  
+- 🚨 One-tap **SOS emergency alerts**  
+- 📊 Displays **area safety ratings**  
+- 👮 Shows **police presence & crowd density**  
+
+👉 *Impact:* Helps users make **safe travel decisions**  
+
+---
+
+<!-- ================= ANIMATED DIVIDER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0077FF&height=120&section=header"/>
 
 ---
 
 ## 🎓 Certifications  
 
-- Oracle (International)– **OCI AI Foundations**  
-- NPTEL – **Python for Data Science**  
-- NPTEL – **Data Base Management System**  
-- IBM – **SQL & Relational Databases**  
-- MongoDB – **MongoDB Basics for Students**  
-- Cambridge – **Linguaskill**  
+- Oracle (OCI) – AI Foundations  
+- NPTEL – Python for Data Science  
+- NPTEL – Database Management System  
+- IBM – SQL & Relational Databases  
+- MongoDB – MongoDB Basics for Students  
+- Cambridge – Linguaskill  
 
 ---
 
 ## 💼 Experience  
 
-- **Frontend Developer Intern @ SkyAstrall** (July 2025 - Aug 2025)
-  - Developed responsive web interfaces using **React, Tailwind CSS, and JavaScript**
-  - Contributed to **real-time client projects** and implemented modern frontend features
-  - Gained hands-on experience in **web development, teamwork**
-  - Worked with **Git & GitHub** for version control and project collaboration
+**Frontend Developer Intern @ SkyAstrall**  
+📅 July 2025 – Aug 2025  
+
+- Built responsive interfaces using **React & Tailwind CSS**  
+- Worked on **real-time client projects**  
+- Collaborated using **Git & GitHub**  
+- Improved UI/UX for production-level applications  
 
 ---
-
 ## 📄 Resume  
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>📌 Want to know more about me?</h3>
-        <p>You can view my full resume for details on education, experience, projects, and skills.</p>
-        <a href="https://drive.google.com/file/d/1CbBu299uLwxe2S90t8WMkJAdoc__vXa1/view?usp=drive_link">
-          <b>➡️ View My Resume</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<h3 align="center">📌 Explore My Professional Journey</h3>
+
+<p align="center">
+Get a detailed overview of my skills, projects, experience, and achievements in AI, Machine Learning, and development.
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1CbBu299uLwxe2S90t8WMkJAdoc__vXa1/view">
+    <img src="https://img.shields.io/badge/View%20Resume-007BFF?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect With Me  
 
-- 📧 Email: [avins2005@gmail.com](mailto:avins2005@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/avinsvr](https://www.linkedin.com/in/avinsvr)  
-- 🌐 Portfolio: [avins-portfolio.netlify.app](https://avins-portfolio.netlify.app/)  
-- 🐙 GitHub: [github.com/Avins-VR](https://github.com/Avins-VR)  
+<p align="center">
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avins2005@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Email-007BFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/avinsvr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://avins-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Avins-VR">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+  </a>
+
+</p>
+
+---
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avins-VR&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avins-VR&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avins-VR&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-⭐️ *“Passionate about leveraging technology for social impact and innovation.”*  
+<h3 align="center">⭐ "Building Intelligent Systems for Real-World Impact" ⭐</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00FFAA&height=120&section=footer"/>
+</p>
