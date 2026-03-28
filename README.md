@@ -203,6 +203,13 @@ Get a detailed overview of my skills, projects, experience, and achievements in 
 
 ---
 
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avins-VR&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+---
+
 <h3 align="center">⭐ "Building Intelligent Systems for Real-World Impact" ⭐</h3>
 
 <p align="center">
