@@ -193,8 +193,7 @@ Get a detailed overview of my skills, projects, experience, and achievements in 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avins-VR&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avins-VR&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Avins-VR&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
