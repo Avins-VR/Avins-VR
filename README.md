@@ -29,7 +29,8 @@
 
 ### 🔹 Artificial Intelligence  
 - Machine Learning  
-- Deep Learning  
+- Deep Learning
+- Multimodal AI
 - Neural Networks (ANN, CNN, RNN)  
 - Natural Language Processing (NLP)  
 - Computer Vision  
