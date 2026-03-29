@@ -160,7 +160,7 @@ Get a detailed overview of my skills, projects, experience, and achievements in 
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1CbBu299uLwxe2S90t8WMkJAdoc__vXa1/view">
+  <a href="https://drive.google.com/file/d/1pHDpBBwoKnko56O-uOmIQwEVqeGM9e0o/view?usp=drive_link">
     <img src="https://img.shields.io/badge/View%20Resume-007BFF?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
