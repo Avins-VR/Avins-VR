@@ -31,9 +31,15 @@
 - Machine Learning  
 - Deep Learning
 - Multimodal AI
-- Neural Networks (ANN, CNN, RNN)  
-- Natural Language Processing (NLP)  
-- Computer Vision  
+- Multimodal AI
+- Random Forest
+- Data Science
+
+### 🔹 Technologies  
+- Neural Networks (ANN, CNN, RNN) 
+- Natural Language Processing (NLP)
+- Computer Vision 
+- Mistral API
 
 ### 🔹 Development  
 - HTML, CSS, JavaScript  
@@ -47,7 +53,9 @@
 - Scikit-Learn  
 - TensorFlow  
 - Git & GitHub  
-- VS Code  
+- VS Code
+- Streamlit
+- Seaborn
 
 ---
 
