@@ -76,19 +76,20 @@ An advanced **AI-powered smart agriculture system** designed for remote farm mon
 
 ---
 
-### 🌿 Multimodal Crop Diagnosis with NLP Chatbot *(Ongoing)*  
+### 🌿 Multimodal NutriAI 
 🔗 https://github.com/Avins-VR/Multimodal-Crop-Diagnosis-with-NLP-Chatbot  
 
-A **hybrid AI system** combining vision + tabular data + NLP for crop diagnosis.
+A **multimodal AI system** combining computer vision, environmental data, and LLM intelligence for accurate crop nutrient deficiency detection.
 
-- 📷 Image-based leaf analysis using **Computer Vision**  
-- 🌱 Integrates **soil data (NPK, pH, moisture)**  
-- ☁️ Includes **weather-based context awareness**  
-- 🤖 Built an **NLP chatbot** for farmer interaction  
-- 🔁 Uses **feedback loop for continuous learning**  
-- 📈 Generates **confidence-based recommendations**  
+- 📷 Leaf analysis using **CNN + DSEE (Deficiency Shape Evolution Encoder)**  
+- 🌱 Integrates **soil data (NPK, pH, moisture)** for better diagnosis  
+- ☁️ Incorporates **weather and environmental context awareness**  
+- 🔗 Uses a **multimodal fusion model** for improved prediction accuracy  
+- 🤖 Built an **LLM-powered chatbot** for intelligent farmer interaction  
+- 📈 Generates **confidence-based predictions and fertilizer recommendations**  
+- 🔁 *(Future)* Self-learning system for continuous improvement  
 
-👉 *Impact:* Improves **accuracy of crop disease detection** and farmer accessibility  
+👉 *Impact:* Enhances **accuracy, explainability, and real-world usability** of crop deficiency detection systems  
 
 ---
 
