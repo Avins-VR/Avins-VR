@@ -31,7 +31,6 @@
 - Machine Learning  
 - Deep Learning
 - Multimodal AI
-- Multimodal AI
 - Random Forest
 - Data Science
 
