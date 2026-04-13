@@ -205,10 +205,6 @@ Get a detailed overview of my skills, projects, experience, and achievements in 
   <img src="https://streak-stats.demolab.com?user=Avins-VR&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avins-VR&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
 ---
 
 ## 📊 Contribution Graph
