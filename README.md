@@ -61,7 +61,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🌱 Smart Agri AI – Multimodal AI + NLP *(Ongoing)*  
+### 🌱 Smart Agri AI - *(Ongoing)*  
 🔗 https://github.com/Avins-VR/Smart-Agri-AI  
 
 An advanced **AI-powered smart agriculture system** designed for remote farm monitoring and decision-making.
