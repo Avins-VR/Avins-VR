@@ -76,7 +76,7 @@ An advanced **AI-powered smart agriculture system** designed for remote farm mon
 ---
 
 ### 🌿 Multimodal NutriAI 
-🔗 https://github.com/Avins-VR/Multimodal-Crop-Diagnosis-with-NLP-Chatbot  
+🔗 https://github.com/Avins-VR/Multimodal-NutriAI 
 
 A **multimodal AI system** combining computer vision, environmental data, and LLM intelligence for accurate crop nutrient deficiency detection.
 
@@ -93,7 +93,7 @@ A **multimodal AI system** combining computer vision, environmental data, and LL
 ---
 
 ### 🚗 Smart Parking System 
-🔗 https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-  
+🔗 https://github.com/Avins-VR/Smart-Parking-System  
 
 A computer vision-based smart parking system that detects slot occupancy in real time.
 
