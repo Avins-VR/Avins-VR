@@ -132,10 +132,6 @@ A **real-time personal safety platform** focused on safer navigation.
 
 ---
 
-<!-- ================= ANIMATED DIVIDER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0077FF&height=120&section=header"/>
-
----
 
 ## 🎓 Certifications  
 
