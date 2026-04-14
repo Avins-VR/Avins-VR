@@ -137,7 +137,8 @@ A **real-time personal safety platform** focused on safer navigation.
 - Oracle (OCI) – AI Foundations  
 - NPTEL – Python for Data Science  
 - NPTEL – Database Management System  
-- IBM – SQL & Relational Databases  
+- IBM – SQL & Relational Databases
+- IBM - Data Science
 - MongoDB – MongoDB Basics for Students  
 - Cambridge – Linguaskill  
 
