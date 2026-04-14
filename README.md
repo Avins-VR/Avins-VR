@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00FFAA&height=120&section=footer"/>
+</p>
+
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Avins </h1>
 
