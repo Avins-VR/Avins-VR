@@ -92,7 +92,7 @@ A **multimodal AI system** combining computer vision, environmental data, and LL
 
 ---
 
-### 🚗 AI-powered Car Parking Spot Detection  
+### 🚗 Smart Parking System 
 🔗 https://github.com/Avins-VR/Car-Parking-spot-Dedection-Open-CV-  
 
 A **computer vision-based smart parking system** that detects slot occupancy in real time.
