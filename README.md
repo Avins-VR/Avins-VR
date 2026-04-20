@@ -63,15 +63,17 @@
 ### 🌱 Smart Agri AI - *(Ongoing)*  
 🔗 https://github.com/Avins-VR/Smart-Agri-AI  
 
-An advanced **AI-powered smart agriculture system** designed for remote farm monitoring and decision-making.
+An advanced **AI-powered smart agriculture system** designed for remote farm monitoring and data-driven decision-making.
 
-- 🌾 Uses **drone imagery + virtual sensor data**  
-- 🤖 Implements **multimodal deep learning models** for data fusion  
-- 📊 Detects **crop health, nutrient deficiencies & growth stages**  
-- 🌦️ Predicts **irrigation needs & weather impact**  
-- 💡 Provides **intelligent advisory for precision farming**  
+- 🌾 Uses **drone-based multispectral imagery + real-time weather data (Open-Meteo API)**  
+- 🤖 Implements **multimodal deep learning models** for crop stress, nutrient detection & growth stage analysis  
+- 💧 Predicts **irrigation needs and soil moisture** using ML based on weather and crop data  
+- 📊 Detects **pest activity, crop health score, and environmental conditions**  
+- 💡 Generates **intelligent advisory insights** based on real-time dashboard data  
+- 🧠 Includes an **LLM-based chatbot** for agriculture-specific query support  
+- 📈 Features an **interactive dashboard** with real-time metrics and historical analysis  
 
-👉 *Impact:* Helps farmers take **data-driven decisions** and improve crop yield  
+👉 *Impact:* Enables **precision farming**, reduces manual monitoring, and improves crop productivity through data-driven insights  
 
 ---
 
