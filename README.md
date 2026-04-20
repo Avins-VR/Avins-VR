@@ -94,17 +94,16 @@ A **multimodal AI system** combining computer vision, environmental data, and LL
 
 ---
 
-### 🚗 Smart Parking System 
+### 🚗 Smart Parking System  
 🔗 https://github.com/Avins-VR/Smart-Parking-System  
 
-A computer vision-based smart parking system that detects slot occupancy in real time.
+A **computer vision-based smart parking system** that detects slot occupancy in real time.
 
-- 📸 Uses OpenCV, SVM, and YOLOv8 with mask-based image processing
-- 🧠 Identifies occupied vs available parking slots with high accuracy
-- ⚡ Improves parking efficiency & reduces congestion
+- 📸 Uses **OpenCV, SVM, and YOLOv8** with mask-based image processing  
+- 🧠 Identifies **occupied vs available parking slots** with high accuracy  
+- ⚡ Enhances **parking efficiency** and reduces congestion  
 
-👉 *Impact:* Saves **time and reduces urban traffic issues**
-👉 *Impact:* Enables **better emergency response planning**  
+👉 *Impact:* Saves time and reduces urban traffic issues  
 ---
 
 ### 🚑 AI-powered Ambulance Demand Prediction  
