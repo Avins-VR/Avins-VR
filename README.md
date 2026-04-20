@@ -33,10 +33,13 @@
 - Multimodal AI
 - Random Forest
 - Data Science
+- Prompt Engineering
 
 ### 🔹 Technologies  
 - Neural Networks (ANN, CNN, RNN) 
 - Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Large Language model (LLM)
 - Computer Vision 
 - Mistral API
 
@@ -94,7 +97,7 @@ A **multimodal AI system** combining computer vision, environmental data, and LL
 
 ---
 ### 📘 RAG Learn AI  
-🔗 https://github.com/Avins-VR/RAGLearn-AI  
+🔗 https://github.com/Avins-VR/RAG-Learn-AI 
 
 An **RAG Based Intelligent PDF Learning Assistant ** that enables users to upload PDFs and receive structured, context-aware explanations.
 
@@ -159,7 +162,7 @@ Get a detailed overview of my skills, projects, experience, and achievements in 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://avins-portfolio.netlify.app/">
+  <a href="https://avins.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
