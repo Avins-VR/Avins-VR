@@ -93,6 +93,19 @@ A **multimodal AI system** combining computer vision, environmental data, and LL
 👉 *Impact:* Enhances **accuracy, explainability, and real-world usability** of crop deficiency detection systems  
 
 ---
+### 📘 RAG Learn AI  
+🔗 https://github.com/Avins-VR/RAGLearn-AI  
+
+An **RAG Based Intelligent PDF Learning Assistant ** that enables users to upload PDFs and receive structured, context-aware explanations.
+
+- 📄 Allows users to **upload PDFs and ask questions**, generating structured outputs (What, Why, How, simplified terms, diagram flow)  
+- 🔍 Implements an **end-to-end RAG pipeline** with text extraction, preprocessing, chunking, embedding generation, and **FAISS-based semantic retrieval**  
+- 🤖 Integrates **LLM (Groq – LLaMA 3)** to generate accurate, context-grounded responses with reduced hallucination  
+- ⚡ Features a **Streamlit app** for real-time queries and fast document retrieval across PDFs  
+
+👉 *Impact:* Enables efficient, context-based learning by transforming complex textbook content into simple, structured explanations  
+
+---
 
 ### 🚗 Smart Parking System  
 🔗 https://github.com/Avins-VR/Smart-Parking-System  
