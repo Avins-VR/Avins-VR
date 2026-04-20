@@ -80,7 +80,7 @@ An advanced **AI-powered smart agriculture system** designed for remote farm mon
 
 ---
 
-### 🌿 Multimodal NutriAI 
+### 🌿 Multimodal Nutri AI 
 🔗 https://github.com/Avins-VR/Multimodal-NutriAI 
 
 A **multimodal AI system** combining computer vision, environmental data, and LLM intelligence for accurate crop nutrient deficiency detection.
