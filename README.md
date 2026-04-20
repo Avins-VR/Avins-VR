@@ -107,46 +107,6 @@ An **RAG Based Intelligent PDF Learning Assistant ** that enables users to uploa
 
 ---
 
-### 🚗 Smart Parking System  
-🔗 https://github.com/Avins-VR/Smart-Parking-System  
-
-A **computer vision-based smart parking system** that detects slot occupancy in real time.
-
-- 📸 Uses **OpenCV, SVM, and YOLOv8** with mask-based image processing  
-- 🧠 Identifies **occupied vs available parking slots** with high accuracy  
-- ⚡ Enhances **parking efficiency** and reduces congestion  
-
-👉 *Impact:* Saves time and reduces urban traffic issues  
-
----
-
-### 🚑 AI-powered Ambulance Demand Prediction  
-🔗 https://github.com/Avins-VR/Ambulance-Demand-Predection  
-
-A **machine learning-based prediction system** for emergency resource planning.
-
-- 🌲 Built using **Random Forest algorithm**  
-- 📊 Uses **weather, events, and call patterns data**  
-- 🔮 Predicts **demand levels (High / Medium / Low)**  
-
-👉 *Impact:* Enables **better emergency response planning**  
-
----
-
-### 🛡️ SafeRoute – Smart Safety Application (MERN)  
-🔗 https://github.com/Avins-VR/SafeRoute  
-
-A **real-time personal safety platform** focused on safer navigation.
-
-- 📍 Live **location tracking & sharing**  
-- 🚨 One-tap **SOS emergency alerts**  
-- 📊 Displays **area safety ratings**  
-- 👮 Shows **police presence & crowd density**  
-
-👉 *Impact:* Helps users make **safe travel decisions**  
-
----
-
 
 ## 🎓 Certifications  
 
