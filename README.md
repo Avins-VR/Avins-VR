@@ -104,6 +104,7 @@ A computer vision-based smart parking system that detects slot occupancy in real
 - ⚡ Improves parking efficiency & reduces congestion
 
 👉 *Impact:* Saves **time and reduces urban traffic issues**
+👉 *Impact:* Enables **better emergency response planning**  
 ---
 
 ### 🚑 AI-powered Ambulance Demand Prediction  
