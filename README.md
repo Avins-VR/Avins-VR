@@ -42,6 +42,7 @@
 - Large Language model (LLM)
 - Computer Vision 
 - Mistral API
+- Groq API
 
 ### 🔹 Development  
 - HTML, CSS, JavaScript  
