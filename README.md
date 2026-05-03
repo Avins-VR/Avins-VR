@@ -116,7 +116,8 @@ An **RAG Based Intelligent PDF Learning Assistant ** that enables users to uploa
 
 - Oracle (OCI) – AI Foundations  
 - NPTEL – Python for Data Science
-- NPTEL – Database Management System  
+- NPTEL – Database Management System
+- NPTEL – Machine Learning (ML)  
 - IBM – SQL & Relational Databases
 - IBM - Data Science
 - MongoDB – MongoDB Basics for Students  
