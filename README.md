@@ -87,7 +87,7 @@ An advanced **AI-powered smart agriculture system** designed for remote farm mon
 A **multimodal AI system** combining computer vision, environmental data, and LLM intelligence for accurate crop nutrient deficiency detection.
 
 - 📷 Leaf analysis using **CNN + DSEE (Deficiency Shape Evolution Encoder)**  
-- 🌱 Integrates **soil data (NPK, pH, moisture)** for better diagnosis  
+- 🌱 Integrates **soil data (NPK, pH, temperature, moisture)** for better diagnosis  
 - ☁️ Incorporates **weather and environmental context awareness**  
 - 🔗 Uses a **multimodal fusion model** for improved prediction accuracy  
 - 🤖 Built an **LLM-powered chatbot** for intelligent farmer interaction  
