@@ -58,6 +58,7 @@
 - Git & GitHub  
 - VS Code
 - Streamlit
+- Roboflow
 - Seaborn
 
 ---
