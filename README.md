@@ -67,17 +67,17 @@
 
 ### 🌱 Smart Agri AI - *(Ongoing)*  🔗 [GitHub](https://github.com/Avins-VR/Smart-Agri-AI) | [Demo](https://smart-agri-ai-dashboard.streamlit.app/) 
 
-An advanced **AI-powered smart agriculture system** designed for remote farm monitoring and data-driven decision-making.
+An advanced **AI-powered Smart Agriculture system** designed for intelligent farm monitoring and data-driven decision-making.
 
-- 🌾 Uses **drone-based multispectral imagery + real-time weather data (Open-Meteo API)**  
-- 🤖 Implements **multimodal deep learning models** for crop stress, nutrient detection & growth stage analysis  
-- 💧 Predicts **irrigation needs and soil moisture** using ML based on weather and crop data  
-- 📊 Detects **pest activity, crop health score, and environmental conditions**  
-- 💡 Generates **intelligent advisory insights** based on real-time dashboard data  
-- 🧠 Includes an **LLM-based chatbot** for agriculture-specific query support  
-- 📈 Features an **interactive dashboard** with real-time metrics and historical analysis  
+- 🌾 Uses **real-time weather data (Open-Meteo API)** for smart farm monitoring and environmental analysis  
+- 🤖 Implements **ML and deep learning models** for pest detection, nutrient analysis, crop stage tracking, and crop health monitoring  
+- 💧 Predicts **soil moisture and irrigation requirements** using weather, rainfall, and crop data  
+- 📊 Monitors **crop health score, pest activity, weather conditions, and irrigation status** in real time  
+- 💡 Generates **AI-powered farming recommendations** based on live dashboard analytics and farm conditions  
+- 🧠 Includes an **LLM-based agriculture chatbot** for farmer query support and smart guidance  
+- 📈 Features an **interactive dashboard** with real-time metrics, historical trends, and farm location analytics  
 
-👉 *Impact:* Enables **precision farming**, reduces manual monitoring, and improves crop productivity through data-driven insights  
+👉 *Impact:* Enables **precision agriculture**, improves irrigation efficiency, supports early pest detection, and enhances crop productivity through AI-driven insights. 
 
 ---
 
