@@ -65,7 +65,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🌱 Smart Agri AI - *(Ongoing)*  🔗 [GitHub](https://github.com/Avins-VR/Smart-Agri-AI) | [Demo](https://smart-agri-ai-dashboard.streamlit.app/) 
+### 🌱 Smart Agri AI - 🔗 [GitHub](https://github.com/Avins-VR/Smart-Agri-AI) | [Demo](https://smart-agri-ai-dashboard.streamlit.app/) 
 
 An advanced **AI-powered Smart Agriculture system** designed for intelligent farm monitoring and data-driven decision-making.
 
