@@ -65,8 +65,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🌱 Smart Agri AI - 🔗 [GitHub](https://github.com/Avins-VR/Smart-Agri-AI) | [Demo](https://smart-agri-ai-dashboard.streamlit.app/) 
-
+### 🌱 Smart Agri AI - 🔗 [GitHub](https://github.com/Avins-VR/Smart-Agri-AI) 
 An advanced **AI-powered Smart Agriculture system** designed for intelligent farm monitoring and data-driven decision-making.
 
 - 🌾 Uses **real-time weather data (Open-Meteo API)** for smart farm monitoring and environmental analysis  
@@ -81,7 +80,7 @@ An advanced **AI-powered Smart Agriculture system** designed for intelligent far
 
 ---
 
-### 🌿 Multimodal Nutri AI  - 🔗 [GitHub](https://github.com/Avins-VR/Multimodal-NutriAI) | [Demo](https://multimodal-nutriai.streamlit.app/) 
+### 🌿 Multimodal Nutri AI  - 🔗 [GitHub](https://github.com/Avins-VR/Multimodal-NutriAI) 
 
 A **multimodal AI system** combining computer vision, environmental data, and LLM intelligence for accurate crop nutrient deficiency detection.
 
@@ -96,7 +95,7 @@ A **multimodal AI system** combining computer vision, environmental data, and LL
 👉 *Impact:* Enhances **accuracy, explainability, and real-world usability** of crop deficiency detection systems  
 
 ---
-### 📘 RAG Learn AI  - 🔗 [GitHub](https://github.com/Avins-VR/RAG-Learn-AI) | [Demo](https://rag-learn-ai.streamlit.app/) 
+### 📘 RAG Learn AI  - 🔗 [GitHub](https://github.com/Avins-VR/RAG-Learn-AI) 
 
 An **RAG Based Intelligent PDF Learning Assistant ** that enables users to upload PDFs and receive structured, context-aware explanations.
 
