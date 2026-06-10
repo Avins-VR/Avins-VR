@@ -66,18 +66,18 @@
 ## 🚀 Featured Projects  
 
 ### 🌱 Smart Agri AI - 🔗 [GitHub](https://github.com/Avins-VR/Smart-Agri-AI) 
-An advanced **AI-powered Smart Agriculture system** designed for intelligent farm monitoring and data-driven decision-making.
 
-- 🌾 Uses **real-time weather data (Open-Meteo API)** for smart farm monitoring and environmental analysis  
-- 🤖 Implements **ML and deep learning models** for pest detection, nutrient analysis, crop stage tracking, and crop health monitoring  
-- 💧 Predicts **soil moisture and irrigation requirements** using weather, rainfall, and crop data  
-- 📊 Monitors **crop health score, pest activity, weather conditions, and irrigation status** in real time  
-- 💡 Generates **AI-powered farming recommendations** based on live dashboard analytics and farm conditions  
-- 🧠 Includes an **LLM-based agriculture chatbot** for farmer query support and smart guidance  
-- 📈 Features an **interactive dashboard** with real-time metrics, historical trends, and farm location analytics  
+An AI Powered Farm Intelligence Agriculture platform for intelligent farm monitoring, prediction, and decision-making.
 
-👉 *Impact:* Enables **precision agriculture**, improves irrigation efficiency, supports early pest detection, and enhances crop productivity through AI-driven insights. 
+* 🌾 Uses **real-time weather data (Open-Meteo API)** for soil moisture prediction, NPK estimation, irrigation planning, and farm monitoring
+* 🤖 Implements **ML and DL models** for soil moisture prediction, nutrient analysis, crop stage tracking, pest detection, and crop health assessment
+* 🏡 Supports **multi-user, multi-land management** with dedicated dashboards for monitoring multiple farms
+* 📊 Tracks **weather, soil moisture, NPK status, crop stage, pest activity, irrigation recommendations, and health scores** in real time
+* 💡 Generates **AI-powered farming recommendations** using weather, soil, nutrient, crop, and pest insights
+* 🧠 Includes an **LLM-powered agriculture chatbot (Mistral API)** for crop guidance, irrigation advice, and farming support
+* 📈 Features **interactive dashboards, historical analytics, trend visualization, and farm location tracking**
 
+👉 *Impact:* Enables **precision agriculture**, improves irrigation efficiency, supports early pest detection, and enhances crop productivity through AI-driven insights.
 ---
 
 ### 🌿 Multimodal Nutri AI  - 🔗 [GitHub](https://github.com/Avins-VR/Multimodal-NutriAI) 
