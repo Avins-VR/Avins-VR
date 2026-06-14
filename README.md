@@ -16,7 +16,7 @@
 
 🎓 B.Tech Artificial Intelligence & Data Science @ *St. Joseph’s Institute of Technology* (2027)  
 💡 Passionate about building **AI-driven real-world solutions**  
-🌱 Currently exploring **Deep Learning, RAG, LLM, NLP & Multimodal AI**  
+⚡ Currently exploring **Deep Learning, RAG, LLM, NLP & Multimodal AI**  
 🚀 Focused on becoming a **skilled AI/ML Engineer**  
 
 ---
