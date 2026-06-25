@@ -108,6 +108,19 @@ An **RAG Based Intelligent PDF Learning Assistant ** that enables users to uploa
 👉 *Impact:* Enables efficient, context-based learning by transforming complex textbook content into simple, structured explanations  
 
 ---
+### 🎥 Intelligent YouTube Learn AI  - 🔗 [GitHub](https://github.com/Avins-VR/Intelligent-YouTube-Learn-AI) | [Demo](https://intelligent-youtube-learn-ai.streamlit.app)
+
+An **AI-powered educational learning platform** that transforms YouTube lectures into interactive study resources using **RAG, LLMs, and ChromaDB**.
+
+* 🎬 Converts **YouTube videos** into **structured summaries, key notes, interactive concept maps, and downloadable PDF study materials**
+* 🔍 Implements an **end-to-end RAG pipeline** with transcript extraction, chunking, embeddings, and **ChromaDB** for accurate semantic retrieval and video-specific responses
+* 📝 Generates **difficulty-based MCQs (Easy, Medium, Hard)** for self-assessment and personalized learning recommendations for the next topics
+* 🤖 Integrates **LLMs (Groq – LLaMA 3)** for context-aware doubt clarification with reduced hallucinations and high-quality educational responses
+* ⚡ Features an interactive **Streamlit** interface for real-time learning, revision, and AI-powered Q&A from educational videos
+
+👉 *Impact:* Reduces learning time by converting lengthy educational videos into structured, interactive, and personalized AI-powered learning experiences.
+
+---
 
 
 ## 🎓 Certifications  
