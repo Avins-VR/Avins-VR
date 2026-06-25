@@ -69,13 +69,13 @@
 
 An AI Powered Farm Intelligence Agriculture platform for intelligent farm monitoring, prediction, and decision-making.
 
-* 🌾 Uses **real-time weather data (Open-Meteo API)** for soil moisture prediction, NPK estimation, irrigation planning, and farm monitoring
-* 🤖 Implements **ML and DL models** for soil moisture prediction, nutrient analysis, crop stage tracking, pest detection, and crop health assessment
-* 🏡 Supports **multi-user, multi-land management** with dedicated dashboards for monitoring multiple farms
-* 📊 Tracks **weather, soil moisture, NPK status, crop stage, pest activity, irrigation recommendations, and health scores** in real time
-* 💡 Generates **AI-powered farming recommendations** using weather, soil, nutrient, crop, and pest insights
-* 🧠 Includes an **LLM-powered agriculture chatbot (Mistral API)** for crop guidance, irrigation advice, and farming support
-* 📈 Features **interactive dashboards, historical analytics, trend visualization, and farm location tracking**
+* Uses **real-time weather data (Open-Meteo API)** for soil moisture prediction, NPK estimation, irrigation planning, and farm monitoring
+* Implements **ML and DL models** for soil moisture prediction, nutrient analysis, crop stage tracking, pest detection, and crop health assessment
+* Supports **multi-user, multi-land management** with dedicated dashboards for monitoring multiple farms
+* Tracks **weather, soil moisture, NPK status, crop stage, pest activity, irrigation recommendations, and health scores** in real time
+* Generates **AI-powered farming recommendations** using weather, soil, nutrient, crop, and pest insights
+* Includes an **LLM-powered agriculture chatbot (Mistral API)** for crop guidance, irrigation advice, and farming support
+* Features **interactive dashboards, historical analytics, trend visualization, and farm location tracking**
 
 👉 *Impact:* Enables **precision agriculture**, improves irrigation efficiency, supports early pest detection, and enhances crop productivity through AI-driven insights.
 
@@ -85,13 +85,13 @@ An AI Powered Farm Intelligence Agriculture platform for intelligent farm monito
 
 A **multimodal AI system** combining computer vision, environmental data, and LLM intelligence for accurate crop nutrient deficiency detection.
 
-- 📷 Leaf analysis using **CNN + DSEE (Deficiency Shape Evolution Encoder)**  
-- 🌱 Integrates **soil data (NPK, pH, temperature, moisture)** for better diagnosis  
-- ☁️ Incorporates **weather and environmental context awareness**  
-- 🔗 Uses a **multimodal fusion model** for improved prediction accuracy  
-- 🤖 Built an **LLM-powered chatbot** for intelligent farmer interaction  
-- 📈 Generates **confidence-based predictions and fertilizer recommendations**  
-- 🔁 *(Future)* Self-learning system for continuous improvement  
+- Leaf analysis using **CNN + DSEE (Deficiency Shape Evolution Encoder)**  
+- Integrates **soil data (NPK, pH, temperature, moisture)** for better diagnosis  
+- Incorporates **weather and environmental context awareness**  
+- Uses a **multimodal fusion model** for improved prediction accuracy  
+- Built an **LLM-powered chatbot** for intelligent farmer interaction  
+- Generates **confidence-based predictions and fertilizer recommendations**  
+- *(Future)* Self-learning system for continuous improvement  
 
 👉 *Impact:* Enhances **accuracy, explainability, and real-world usability** of crop deficiency detection systems  
 
@@ -100,10 +100,10 @@ A **multimodal AI system** combining computer vision, environmental data, and LL
 
 An **RAG Based Intelligent PDF Learning Assistant ** that enables users to upload PDFs and receive structured, context-aware explanations.
 
-- 📄 Allows users to **upload PDFs and ask questions**, generating structured outputs (What, Why, How, simplified terms, diagram flow)  
-- 🔍 Implements an **end-to-end RAG pipeline** with text extraction, preprocessing, chunking, embedding generation, and **FAISS-based semantic retrieval**  
-- 🤖 Integrates **LLM (Groq – LLaMA 3)** to generate accurate, context-grounded responses with reduced hallucination  
-- ⚡ Features a **Streamlit app** for real-time queries and fast document retrieval across PDFs  
+- Allows users to **upload PDFs and ask questions**, generating structured outputs (What, Why, How, simplified terms, diagram flow)  
+- Implements an **end-to-end RAG pipeline** with text extraction, preprocessing, chunking, embedding generation, and **FAISS-based semantic retrieval**  
+- Integrates **LLM (Groq – LLaMA 3)** to generate accurate, context-grounded responses with reduced hallucination  
+- Features a **Streamlit app** for real-time queries and fast document retrieval across PDFs  
 
 👉 *Impact:* Enables efficient, context-based learning by transforming complex textbook content into simple, structured explanations  
 
@@ -112,11 +112,11 @@ An **RAG Based Intelligent PDF Learning Assistant ** that enables users to uploa
 
 An **AI-powered educational learning platform** that transforms YouTube lectures into interactive study resources using **RAG, LLMs, and ChromaDB**.
 
-* 🎬 Converts **YouTube videos** into **structured summaries, key notes, interactive concept maps, and downloadable PDF study materials**
-* 🔍 Implements an **end-to-end RAG pipeline** with transcript extraction, chunking, embeddings, and **ChromaDB** for accurate semantic retrieval and video-specific responses
-* 📝 Generates **difficulty-based MCQs (Easy, Medium, Hard)** for self-assessment and personalized learning recommendations for the next topics
-* 🤖 Integrates **LLMs (Groq – LLaMA 3)** for context-aware doubt clarification with reduced hallucinations and high-quality educational responses
-* ⚡ Features an interactive **Streamlit** interface for real-time learning, revision, and AI-powered Q&A from educational videos
+* Converts **YouTube videos** into **structured summaries, key notes, interactive concept maps, and downloadable PDF study materials**
+* Implements an **end-to-end RAG pipeline** with transcript extraction, chunking, embeddings, and **ChromaDB** for accurate semantic retrieval and video-specific responses
+* Generates **difficulty-based MCQs (Easy, Medium, Hard)** for self-assessment and personalized learning recommendations for the next topics
+* Integrates **LLMs (Groq – LLaMA 3)** for context-aware doubt clarification with reduced hallucinations and high-quality educational responses
+* Features an interactive **Streamlit** interface for real-time learning, revision, and AI-powered Q&A from educational videos
 
 👉 *Impact:* Reduces learning time by converting lengthy educational videos into structured, interactive, and personalized AI-powered learning experiences.
 
