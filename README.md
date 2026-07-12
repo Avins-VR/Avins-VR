@@ -199,6 +199,7 @@ Get a detailed overview of my skills, projects, experience, and achievements in 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avins-VR&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
 ---
 
 <h3 align="center">⭐ "Building Intelligent Systems for Real-World Impact" ⭐</h3>
@@ -206,14 +207,3 @@ Get a detailed overview of my skills, projects, experience, and achievements in 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00FFAA&height=120&section=footer"/>
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
-
