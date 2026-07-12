@@ -206,3 +206,14 @@ Get a detailed overview of my skills, projects, experience, and achievements in 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00FFAA&height=120&section=footer"/>
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/johnwesley755/johnwesley755/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
