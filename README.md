@@ -60,6 +60,7 @@
 - Streamlit
 - Roboflow
 - Seaborn
+- AWS
 
 ---
 
