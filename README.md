@@ -34,15 +34,21 @@
 - Random Forest
 - Data Science
 - Prompt Engineering
+- Computer Vision
+- Retrieval-Augmented Generation (RAG)
 
 ### 🔹 Technologies  
-- Neural Networks (ANN, CNN, RNN) 
+- Neural Networks (ANN, CNN, RNN)
+- YOLO
 - Natural Language Processing (NLP)
-- Retrieval-Augmented Generation (RAG)
 - Large Language model (LLM)
-- Computer Vision 
+- Data Augmentation
+- Data Annotation
 - Mistral API
-- Groq API
+- Groq Llama API
+- FAISS
+- ChromaDB
+- Flask 
 
 ### 🔹 Development  
 - HTML, CSS, JavaScript  
@@ -53,7 +59,8 @@
 - NumPy  
 - Pandas  
 - Matplotlib  
-- Scikit-Learn  
+- Scikit-Learn
+- Open CV 
 - TensorFlow  
 - Git & GitHub  
 - VS Code
