@@ -50,11 +50,6 @@
 - ChromaDB
 - Flask 
 
-### 🔹 Development  
-- HTML, CSS, JavaScript  
-- React.js  
-- MERN Stack  
-
 ### 🔹 Tools & Libraries  
 - NumPy  
 - Pandas  
@@ -69,6 +64,11 @@
 - Roboflow
 - Seaborn
 - AWS
+
+### 🔹 Development  
+- HTML, CSS, JavaScript  
+- React.js  
+- MERN Stack  
 
 ---
 
