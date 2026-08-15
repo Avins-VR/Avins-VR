@@ -105,7 +105,7 @@ A **multimodal AI system** combining computer vision, environmental data, and LL
 👉 *Impact:* Enhances **accuracy, explainability, and real-world usability** of crop deficiency detection systems  
 
 ---
-### 📘 RAG Learn AI  - 🔗 [GitHub](https://github.com/Avins-VR/RAG-Learn-AI) | [Demo](https://rag-learn-ai.streamlit.app)
+### 📘 RAG Learn AI  - 🔗 [GitHub](https://github.com/Avins-VR/RAG-Learn-AI) | [Demo](https://rag-learn-ai.netlify.app/)
 
 An **RAG Based Intelligent PDF Learning Assistant ** that enables users to upload PDFs and receive structured, context-aware explanations.
 
@@ -165,7 +165,7 @@ Get a detailed overview of my skills, projects, experience, and achievements in 
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1YSLfeGFUjg6QYHcdoWh9OCqXTuGt8jcA/view">
+  <a href="https://drive.google.com/file/d/1ekOmBPdk20dKPEFLtmlYHhbmjxKrnaJs/view">
     <img src="https://img.shields.io/badge/View%20Resume-007BFF?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
