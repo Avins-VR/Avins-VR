@@ -112,7 +112,7 @@ An **RAG Based Intelligent PDF Learning Assistant ** that enables users to uploa
 - Allows users to **upload PDFs and ask questions**, generating structured outputs (What, Why, How, simplified terms, diagram flow)  
 - Implements an **end-to-end RAG pipeline** with text extraction, preprocessing, chunking, embedding generation, and **FAISS-based semantic retrieval**  
 - Integrates **LLM (Groq – LLaMA 3)** to generate accurate, context-grounded responses with reduced hallucination  
-- Features a **Streamlit app** for real-time queries and fast document retrieval across PDFs  
+- Features a **React frontend** with a **Flask API** for real-time queries and fast document retrieval across PDFs  
 
 👉 *Impact:* Enables efficient, context-based learning by transforming complex textbook content into simple, structured explanations  
 
