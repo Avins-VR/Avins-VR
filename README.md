@@ -117,7 +117,7 @@ An **RAG Based Intelligent PDF Learning Assistant ** that enables users to uploa
 👉 *Impact:* Enables efficient, context-based learning by transforming complex textbook content into simple, structured explanations  
 
 ---
-### 🎥 Intelligent YouTube Learn AI  - 🔗 [GitHub](https://github.com/Avins-VR/Intelligent-YouTube-Learn-AI) | [Demo](https://intelligent-youtube-learn-ai.streamlit.app)
+### 🎥 Intelligent YouTube Learn AI  - 🔗 [GitHub](https://github.com/Avins-VR/Intelligent-YouTube-Learn-AI) | [Demo](https://intelligent-youtube-learn-ai.netlify.app/)
 
 An **AI-powered educational learning platform** that transforms YouTube lectures into interactive study resources using **RAG, LLMs, and ChromaDB**.
 
