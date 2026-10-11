@@ -57,7 +57,7 @@
 - Scikit-Learn
 - Open CV 
 - TensorFlow  
-- Git & GitHub  
+- Git, GitHub & GitLab  
 - VS Code
 - Streamlit
 - Kaggle
@@ -66,9 +66,11 @@
 - AWS
 
 ### 🔹 Development  
-- HTML, CSS, JavaScript  
+- HTML
+- CSS
+- Tailwind CSS 
 - React.js  
-- MERN Stack  
+- Mongo DB
 
 ---
 
