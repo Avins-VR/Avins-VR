@@ -12,12 +12,63 @@
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 
-🎓 B.Tech Artificial Intelligence & Data Science @ *St. Joseph’s Institute of Technology* (2027)  
-💡 Passionate about building **AI-driven real-world solutions**  
-⚡ Currently exploring **Deep Learning, RAG, LLM, NLP & Multimodal AI**  
-🚀 Focused on becoming a **skilled AI/ML Engineer**  
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science at *St. Joseph’s Institute of Technology* (2027).
+- 🤖 Interested in Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+- 🔍 Exploring RAG systems, Large Language Models (LLMs), NLP, and Multimodal AI.
+- 🛠️ Passionate about developing AI-powered solutions to solve real-world problems.
+- 🚀 Aspiring AI/ML Engineer focused on continuous learning, experimentation, and innovation.
+---
+
+## 🧭 Domain Expertise
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖 Machine Learning
+
+<img src="https://img.shields.io/badge/Scikit--Learn_ML-2196F3?style=flat-square&logo=scikitlearn&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Random_Forest_Model-2196F3?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Classification_Models-2196F3?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Model_Evaluation_Analytics-2196F3?style=flat-square" />
+
+</td>
+<td align="center" width="25%">
+
+### 👁️ Computer Vision
+
+<img src="https://img.shields.io/badge/YOLOv8_Object_Detection-9C27B0?style=flat-square&logo=ultralytics&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Image_Processing_Vision-9C27B0?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Data_Augmentation_Images-9C27B0?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Model_Evaluation_mAP-9C27B0?style=flat-square" />
+
+</td>
+<td align="center" width="25%">
+
+### 🧠 Deep Learning
+
+<img src="https://img.shields.io/badge/PyTorch_Deep_Learning-EC4899?style=flat-square&logo=pytorch&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/TensorFlow_Neural_Networks-EC4899?style=flat-square&logo=tensorflow&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/CNN_Architecture-EC4899?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/EfficientNet_Feature_Extraction-EC4899?style=flat-square" />
+
+</td>
+<td align="center" width="25%">
+
+### 🔎 RAG Systems
+
+<img src="https://img.shields.io/badge/RAG_Retrieval-10B981?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Vector_Databases_Embeddings-10B981?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/LLM_Pipelines_Generative_AI-10B981?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Document_Q%26A_Grounding-10B981?style=flat-square" />
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -174,7 +225,7 @@ Get a detailed overview of my skills, projects, experience, and achievements in 
 
 ---
 
-## 📫 Connect With Me  
+## 📬 Let's Connect
 
 <p align="center">
 
@@ -197,23 +248,24 @@ Get a detailed overview of my skills, projects, experience, and achievements in 
 </p>
 
 ---
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Avins-VR&theme=tokyonight&hide_border=true" height="150"/>
+  <a href="https://github.com/Avins-VR">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Avins-VR&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics" />
+  </a>
+  <a href="https://github.com/Avins-VR">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avins-VR&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
+  </a>
 </p>
-
----
-
-## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avins-VR&theme=tokyo-night&hide_border=true&area=true" />
+   <img src="https://streak-stats.demolab.com?user=Avins-VR&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak" />
 </p>
 
----
-
-<h3 align="center">⭐ "Building Intelligent Systems for Real-World Impact" ⭐</h3>
+<p align="center">
+  <i>Building Intelligent Systems for Real-World Impact</i> ✨
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00FFAA&height=120&section=footer"/>
