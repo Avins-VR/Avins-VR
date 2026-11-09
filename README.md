@@ -184,6 +184,27 @@ An **AI-powered educational learning platform** that transforms YouTube lectures
 
 ---
 
+## 💼 Experience  
+
+**AI Intern @ Solinas**  
+📅 Aug 2026 – Present  
+
+- Developed YOLO-based defect detection models to identify 15 pipeline defect classes.
+- Prepared datasets and trained and optimized Computer Vision models.
+- Built Python automation to generate defect descriptions and recommendations based on severity and defect details.
+- Contributing to HLD projects, focusing on system design and performance optimization.
+  
+---
+
+**Frontend Developer Intern @ SkyAstrall**  
+📅 July 2025 – Aug 2025  
+
+- Built responsive interfaces using **React & Tailwind CSS**  
+- Worked on **real-time client projects**  
+- Collaborated using **Git & GitHub**  
+- Improved UI/UX for production-level applications  
+
+---
 
 ## 🎓 Certifications  
 
@@ -195,18 +216,6 @@ An **AI-powered educational learning platform** that transforms YouTube lectures
 - IBM - Data Science
 - MongoDB – MongoDB Basics for Students  
 - Cambridge – Linguaskill  
-
----
-
-## 💼 Experience  
-
-**Frontend Developer Intern @ SkyAstrall**  
-📅 July 2025 – Aug 2025  
-
-- Built responsive interfaces using **React & Tailwind CSS**  
-- Worked on **real-time client projects**  
-- Collaborated using **Git & GitHub**  
-- Improved UI/UX for production-level applications  
 
 ---
 ## 📄 Resume  
