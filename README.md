@@ -211,7 +211,8 @@ An **AI-powered educational learning platform** that transforms YouTube lectures
 - Oracle (OCI) – AI Foundations  
 - NPTEL – Python for Data Science
 - NPTEL – Database Management System
-- NPTEL – Machine Learning (ML)  
+- NPTEL – Machine Learning (ML)
+- NPTEL – Big Data Computing 
 - IBM – SQL & Relational Databases
 - IBM - Data Science
 - MongoDB – MongoDB Basics for Students  
